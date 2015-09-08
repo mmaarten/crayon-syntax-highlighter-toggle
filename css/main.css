@@ -1,0 +1,9 @@
+.crayon-syntax.closed
+{
+	max-height: 150px;
+}
+
+.crayon-syntax.open
+{
+	max-height: none;
+}
